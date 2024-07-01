@@ -4,6 +4,7 @@ superhero-system/
 ├── all.php
 ├── compare.php
 ├── api.php
+├── hero.php
 ├── styles/
 |   └── tailwind.css
 └── img/
