@@ -6,5 +6,5 @@ superhero-system/
 ├── api.php
 ├── styles/
 |   └── tailwind.css
-└── styles/
+└── img/
     └── favicon.png
