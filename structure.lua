@@ -4,5 +4,7 @@ superhero-system/
 ├── all.php
 ├── compare.php
 ├── api.php
+├── styles/
+|   └── tailwind.css
 └── styles/
-    └── tailwind.css
+    └── favicon.png
