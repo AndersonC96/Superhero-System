@@ -14,7 +14,7 @@ A web application built with PHP and Tailwind CSS to search and display detailed
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/superhero-information-system.git
+    git clone https://github.com/yourusername/superhero-system.git
     cd superhero-information-system
     ```
 
@@ -48,7 +48,7 @@ A web application built with PHP and Tailwind CSS to search and display detailed
 
 4. **Run the application:**
 
-    Place the project folder in your web server's root directory (e.g., `htdocs` for XAMPP). Start the server and navigate to `http://localhost/superhero-information-system` in your browser.
+    Place the project folder in your web server's root directory (e.g., `htdocs` for XAMPP). Start the server and navigate to `http://localhost/superhero-system` in your browser.
 
 ## Usage
 
